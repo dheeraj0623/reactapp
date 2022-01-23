@@ -1,0 +1,9 @@
+.Person{
+    width: 60%;
+    margin: 20px auto;
+    background-color:darkcyan;
+    border: brown 5px solid;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
